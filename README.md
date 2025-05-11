@@ -35,8 +35,8 @@
 
 
 
-### Name: NALLAMALLI VENKATA CHETAN SATWIK
-### Register Number:212224240100
+### Name: ARANI VENKATA SUNDARA LEELA KRISHNA
+### Register Number:212224240013
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
